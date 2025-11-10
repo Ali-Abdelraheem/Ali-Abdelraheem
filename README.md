@@ -21,14 +21,6 @@ I'm a passionate developer who enjoys coding, solving problems, and exploring ne
 #### 🛠️ Tools  
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📬 Contact Me  
-📧 **aliabdelraheem316@gmail.com**
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="60%"/>
+![Email](https://img.shields.io/badge/-aliabdelraheem316@gmail.com-cyan?style=for-the-badge&logo=gmail&logoColor=white)
 
 </div>
